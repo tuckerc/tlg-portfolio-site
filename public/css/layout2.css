@@ -1,0 +1,27 @@
+#brand-image {
+  max-width: 100%;
+  max-height: 50px;
+}
+
+.navbar-brand {
+  padding: 0px 15px;
+}
+
+.carousel-image {
+  max-width: 100%;
+  max-height: 500px;
+}
+
+.carousel,
+.carousel-inner img {
+  margin: auto;
+}
+
+#logo-container {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  max-height: 40px;
+}
