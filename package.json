@@ -1,0 +1,22 @@
+{
+  "name": "tlg-portfolio-site",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for TLG Learning Web Dev course",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuckerc/tlg-portfolio-site.git"
+  },
+  "author": "Chase Tucker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuckerc/tlg-portfolio-site/issues"
+  },
+  "homepage": "https://github.com/tuckerc/tlg-portfolio-site#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
