@@ -11,3 +11,15 @@
 p {
   font-family: "Caveat", cursive;
 }
+
+.gray {
+  background-color: gray;
+}
+
+.coral {
+  background-color: coral;
+}
+
+.teal {
+  background-color: teal;
+}
