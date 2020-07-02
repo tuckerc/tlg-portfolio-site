@@ -1,10 +1,21 @@
 .nav-link,
 .dropdown-item,
-#about h1 {
+#about h1,
+#books h1 {
   font-family: "Orbitron", sans-serif;
 }
 
-#about h1 {
+.card-body a {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.card-title {
+  font-family: "Bangers", cursive;
+}
+
+#about h1,
+#books h1 {
   font-size: 2em;
 }
 
