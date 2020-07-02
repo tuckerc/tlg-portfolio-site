@@ -14,6 +14,10 @@
   font-family: "Bangers", cursive;
 }
 
+.carousel-image {
+  background-color: teal;
+}
+
 #about h1,
 #books h1 {
   font-size: 2em;
