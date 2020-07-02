@@ -1,0 +1,36 @@
+.nav-link,
+.dropdown-item,
+#about h1,
+#books h1 {
+  font-family: "Orbitron", sans-serif;
+}
+
+.card-body a {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.card-title {
+  font-family: "Bangers", cursive;
+}
+
+#about h1,
+#books h1 {
+  font-size: 2em;
+}
+
+p {
+  font-family: "Caveat", cursive;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.coral {
+  background-color: coral;
+}
+
+.teal {
+  background-color: teal;
+}
